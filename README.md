@@ -5,7 +5,7 @@
 </div>
 
 ## Sobre o projeto 📖
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-direction: column;">
     <h1 style="font-weight: bolder; font-style: normal; font-size: small;">Site responsivo usando apenas HTML e CSS</h1>
     <p style="font-weight: 600; font-style: normal; font-size: medium;">
         O site foi criado com o intuito de praticar o uso de HTML e CSS
