@@ -1,7 +1,7 @@
 ## Imagem do site 📷
 <div style="display: flex; justify-content: center; margin: 10px;">
     <img src="imagens/exemplo-1.png" alt="exemplo do site no celular" style="width: 300px; margin-right: 10px;">
-    <img src="imagens/exemplo-2.png" alt="exemplo do site no computador" style="width: 300px; margin-left: 10px;">
+    <img src="imagens/exemplo-2.png" alt="exemplo do site no computador" style="width: 500px; height:290px; margin-left: 10px;">
 </div>
 
 ## Sobre o projeto 📖
