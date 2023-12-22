@@ -9,7 +9,7 @@
     <h1 style="font-weight: bolder; font-style: normal; font-size: small;">Site responsivo usando apenas HTML e CSS</h1>
     <p style="font-weight: 600; font-style: normal; font-size: medium;">
         O site foi criado com o intuito de praticar o uso de HTML e CSS
-        Link do site: <a href="https://andreimartinscoelho.github.io/site-responsivo/">
+        <a href="https://andreimartinscoelho.github.io/site-responsivo/">Link do site</a>
     </p>
 </div>
 
